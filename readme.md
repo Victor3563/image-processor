@@ -6,11 +6,17 @@
 
 ## Установка
 Клонируйте репозиторий:
+
 git clone https://github.com/Victor3563/image-processor
+
 cd image-processor
+
 Запустите CMake и соберите проект:
+
 cmake
+
 make
+
 В результате появится исполняемый файл image_processor.
 
 ## Поддерживаемый формат изображений
